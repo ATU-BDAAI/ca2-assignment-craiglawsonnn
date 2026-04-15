@@ -43,3 +43,5 @@ Python notebook template for students to use for CA2
 - cleaned NLP output
 - extracted fields in JSON
 - maybe pandas table of line items
+
+Dataset from: https://www.kaggle.com/datasets/trainingdatapro/ocr-receipts-text-detection?resource=download
